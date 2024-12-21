@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1679896921 source:c:\users\hp\onedrive\desktop\c++ all program\unsortedtype(link list)\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1679896924 c:\users\hp\onedrive\desktop\c++ all program\unsortedtype(link list)\unsortedtype.h
+
+1679924081 source:c:\users\hp\onedrive\desktop\c++ all program\unsortedtype(link list)\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+
+1679896921 c:\users\hp\onedrive\desktop\c++ all program\unsortedtype(link list)\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+

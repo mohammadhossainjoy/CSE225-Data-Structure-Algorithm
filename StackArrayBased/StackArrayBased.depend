@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1681055390 source:c:\users\hp\onedrive\desktop\c++ all program\stackarraybased\stacktype.cpp
+	"StackType.h"
+
+1681055390 c:\users\hp\onedrive\desktop\c++ all program\stackarraybased\stacktype.h
+
+1681059545 source:c:\users\hp\onedrive\desktop\c++ all program\stackarraybased\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1681055390 c:\users\hp\onedrive\desktop\c++ all program\stackarraybased\stacktype.cpp
+	"StackType.h"
+
