@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678454768 source:c:\users\hp\onedrive\desktop\c++ all program\lab04-task\unsortedtype.cpp
+	"UnsortedType.h"
+
+1678454607 c:\users\hp\onedrive\desktop\c++ all program\lab04-task\unsortedtype.h
+
+1678463655 source:c:\users\hp\onedrive\desktop\c++ all program\lab04-task\main.cpp
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+	<iostream>
+
+1678454768 c:\users\hp\onedrive\desktop\c++ all program\lab04-task\unsortedtype.cpp
+	"UnsortedType.h"
+
