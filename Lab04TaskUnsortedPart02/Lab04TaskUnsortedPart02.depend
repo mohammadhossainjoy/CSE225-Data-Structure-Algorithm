@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678470572 source:c:\users\hp\onedrive\desktop\c++ all program\lab04taskunsortedpart02\unsortedtype.cpp
+	"UnsortedType.h"
+
+1678470607 c:\users\hp\onedrive\desktop\c++ all program\lab04taskunsortedpart02\unsortedtype.h
+
+1678470622 source:c:\users\hp\onedrive\desktop\c++ all program\lab04taskunsortedpart02\student.cpp
+	<iostream>
+
